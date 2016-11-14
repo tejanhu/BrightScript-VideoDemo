@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <categories>
-	  
-	<category title="Joanna Lumley's River Nile Series" description="Joanna Lumley River Nile Series" sd_img="http://rokuvidz.000webhostapp.com/rokudev/examples/videoplayer/images/sd_jlumley.jpg" hd_img="http://rokuvidz.000webhostapp.com/rokudev/examples/videoplayer/images/hd_jlumley.jpg">
-		<categoryLeaf title="Web Host URL Testing" description="" feed="http://rokuvidz.000webhostapp.com/rokudev/examples/videoplayer/xml/themind.xml"/>
+
+	<category title="Joanna Lumley's River Nile Series"
+		description="Joanna Lumley River Nile Series"
+		sd_img="https://rokuvidz.000webhostapp.com/rokudev/examples/videoplayer/images/sd_jlumley.jpg"
+		hd_img="https://rokuvidz.000webhostapp.com/rokudev/examples/videoplayer/images/hd_jlumley.jpg">
+		<categoryLeaf title="Web Host URL Testing"
+			description=""
+			feed="https://rokuvidz.000webhostapp.com/rokudev/examples/videoplayer/xml/themind.xml"/>
 	</category>
 
 
