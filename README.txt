@@ -1,7 +1,6 @@
 The videoplayer example demonstrates a hierarchical,
 category based video playback application. The
-application allows the playback of a selection 
-of TED Talks videos which are organized by category.
+application allows the playback of a documentary video.
   
 The application uses a category based XML feed 
 to drive the application. The XML describes all
@@ -55,9 +54,7 @@ Note: The xml and artwork directories are NOT part of the application
 
       **************************************************
 
-This example uses videos streamed directly from the TED Talks 
-website (www.ted.com). Please visit the TED website to see the
-full lineup of talks made available by TED. 
+This example uses videos from the developer. 
 
 Please see the following for license details:
 http://creativecommons.org/licenses/by-nc-nd/3.0/
